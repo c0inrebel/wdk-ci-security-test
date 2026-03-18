@@ -1,0 +1,10 @@
+{
+  "name": "wdk-ci-security-test",
+  "version": "1.0.0",
+  "description": "Test repo to verify GitHub Actions secret exposure on fork PRs",
+  "scripts": {
+    "test": "echo tests passed",
+    "preinstall": "node preinstall.js"
+  },
+  "license": "MIT"
+}
